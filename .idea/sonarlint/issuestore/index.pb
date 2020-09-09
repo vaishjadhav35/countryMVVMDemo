@@ -50,3 +50,13 @@ P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 t
 Dapp/src/main/java/com/example/countrymvvm/view/CountryListAdapter.kt,a\0\a025e6bc4760852e108daf1d62a0f74a5697cc12
+f
+6app/src/main/java/com/example/countrymvvm/util/Util.kt,2\1\21ef8e198f58938acca779f072119c1f4384c268
+o
+?app/src/main/java/com/example/countrymvvm/model/CountriesApi.kt,e\9\e9b5e0445cc49694175b3e981ea093a81603cd5d
+i
+9app/src/main/java/com/example/countrymvvm/di/ApiModule.kt,6\3\63163a353a22292fc1ad9e7b02c9f0be1b7498ea
+n
+>app/src/main/java/com/example/countrymvvm/di/ApiComponent.java,6\a\6a8bc2297d3ea13e663300f28c4b2c9c35303271
+s
+Capp/src/main/java/com/example/countrymvvm/model/CountriesService.kt,d\a\dad8d43ca6ec80361c157bc0f4a46e6ea90dea6a
