@@ -29,8 +29,6 @@ T
 $.idea/codeStyles/codeStyleConfig.xml,d\d\dd7b3350c29c49497756c7f32c69a3bed18b1cba
 L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 :
@@ -56,7 +54,13 @@ o
 ?app/src/main/java/com/example/countrymvvm/model/CountriesApi.kt,e\9\e9b5e0445cc49694175b3e981ea093a81603cd5d
 i
 9app/src/main/java/com/example/countrymvvm/di/ApiModule.kt,6\3\63163a353a22292fc1ad9e7b02c9f0be1b7498ea
-n
->app/src/main/java/com/example/countrymvvm/di/ApiComponent.java,6\a\6a8bc2297d3ea13e663300f28c4b2c9c35303271
 s
 Capp/src/main/java/com/example/countrymvvm/model/CountriesService.kt,d\a\dad8d43ca6ec80361c157bc0f4a46e6ea90dea6a
+l
+<app/src/main/java/com/example/countrymvvm/di/ApiComponent.kt,b\4\b4f258dd9a8cf9dd18407752134b646f2d5973cd
+n
+>app/src/test/java/com/example/countrymvvm/ListViewModelTest.kt,7\8\7884b8fae3c8013aa8f391de68b7b7d7b4caee43
+o
+?app/src/main/java/com/example/countrymvvm/view/MainActivity2.kt,1\c\1cb6840e64fbdfc5674a3f5f57b9245b94a3a8fa
+k
+;app/src/main/java/com/example/countrymvvm/model/PostData.kt,8\b\8b4b2e6904bec4656e268c73114bfce7c4056791
